@@ -1,0 +1,44 @@
+html {
+    background-color: LightCyan;
+    
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    background-size:cover;
+    height:100%;
+  }
+  
+  body{	
+      color: #0f141e; 
+      line-height: 100%; 
+      font-size: 16px; 
+  }
+  
+  .page{
+      max-width:800px;
+      padding:50px 100px;
+      border-radius:10px;
+      box-shadow:4px 4px 15px rgba(0, 0, 0, 0.2);
+      background-color: Aquamarine;
+      text-align: center;
+  }
+
+  .input {
+    border-radius:10px;
+    margin-bottom:15px;
+    padding:10px 20px;
+    border-color: white;
+  }
+  
+   .btn{
+    border-radius:30px;
+    padding:10px 20px;
+    font-size:18px;
+    font-weight:bold;
+    background-color: MediumTurquoise;
+    border:none;
+    color:white;
+    margin-top:15px;
+  }
+
+  
